@@ -1,0 +1,13 @@
+\contentsline {chapter}{\numberline {1}مقدمات}{1}{}%
+\contentsline {section}{\numberline {1.1}مفهوم هر مسئله}{1}{}%
+\contentsline {section}{\numberline {1.2}مفاهیم شبکه}{2}{}%
+\contentsline {chapter}{\numberline {2}کوتاه ترین مسیر}{5}{}%
+\contentsline {section}{\numberline {2.1}\LR {Label setting algorithm}}{5}{}%
+\contentsline {section}{\numberline {2.2}\LR {Label correcting algorithm}}{5}{}%
+\contentsline {chapter}{\numberline {3}ماکسیموم جریان در شبکه}{7}{}%
+\contentsline {section}{\numberline {3.1}جریان ها و برش ها}{7}{}%
+\contentsline {section}{\numberline {3.2}\LR {Genetic algorithm path}}{7}{}%
+\contentsline {section}{\numberline {3.3}\LR {Labeling algorithm}}{7}{}%
+\contentsline {chapter}{\numberline {4}مسئله مینیموم هزینه جریان}{9}{}%
+\contentsline {section}{\numberline {4.1}تعریف مسئله}{9}{}%
+\contentsline {section}{\numberline {4.2}ارائه الگوریتم برای حل مسئله}{9}{}%
